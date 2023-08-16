@@ -61,3 +61,14 @@ body {
   background-color: var(--marrom-claro);
 }
 
+/* DARK MODE */
+[data-bs-theme="dark"] {
+  color: white;
+  .nav-link, .card-body, .offcanvas, .accordion, .btn {
+    --bs-nav-link-color: white;
+    --bs-card-color: white;
+    --bs-offcanvas-color: white;
+    --bs-body-color: white;
+    --bs-body-color: white;
+  }
+}
