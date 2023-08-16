@@ -49,6 +49,7 @@ body {
 /*CARDS de serviços*/
 .botao-padrao {
   background-color: var(--marrom-claro);
+  color: black;
 }
 
 .botao-padrao:hover {
