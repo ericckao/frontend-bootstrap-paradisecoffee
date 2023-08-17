@@ -1,7 +1,7 @@
 # Sobre o Projeto
 O objetivo deste projeto é acadêmico, visando colocar em prática e me desafiar com base nas ferramentas e conhecimentos adquiridos. O foco principal é desenvolver uma aplicação web utilizando as principais novidades do bootstrap em uma cafeteria fictícia.
 
-### Deploy: 
+### Deploy: https://paradisecoffee.netlify.app/#
 
 ## Layout Mobile 
 <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge"/>
